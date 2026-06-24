@@ -1,7 +1,7 @@
 # 8-bit-ALU-verilog-
 
 ## Description
-This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog HDL. It performs arithmetic and logical operations based on a 3-bit select input.
+This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog HDL. It performs arithmetic and logical operations based on a 3-bit select input
 
 ## Features
 - 8-bit Arithmetic Logic Unit
@@ -23,6 +23,9 @@ This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog HDL. It 
 ## Tools Used
 - Xilinx Vivado
 - Verilog HDL
+
+## Project Overview
+This project demonstrates the design and functional verification of an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL in Xilinx Vivado.
 
 ## Author
 Ameena Sayyed

@@ -24,9 +24,5 @@ This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog HDL. It 
 - Xilinx Vivado
 - Verilog HDL
 
-## Files
-- alu_8bit.v
-- alu_8bit_tb.v
-
 ## Author
 Ameena Sayyed

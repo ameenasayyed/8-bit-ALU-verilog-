@@ -23,6 +23,9 @@ This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog HDL. It 
 ## Tools Used
 - Xilinx Vivado
 - Verilog HDL
+- icarus verilog
+- visual studio code
+- gtkwave
 
 ## Project Overview
 This project demonstrates the design and functional verification of an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL in Xilinx Vivado.
